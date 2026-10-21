@@ -38,3 +38,9 @@ Process (non-negotiable)
 - If the user supplies a layout/reference, keep it exactly; change only the named items.
 - If an instruction is unclear, ask one short question instead of guessing.
 - If the source image is too low-res to do the job well, say so up front, before editing.
+
+## Delivery gate (locked by user)
+- Never cut, shorten, reword or drop any word/line of the user's text. All lines the user gave must appear, exactly.
+- Place title and CTA professionally and only where asked; never put text anywhere random or over the subject.
+- Before sharing, self-check: "is this postable as-is?" (full view + zoom on text, logo, edges). If not, fix it first or say plainly what is not good enough. Never send a poster I would not post myself.
+- Match the level of the locked reference posters (butterfly-block) in polish.
