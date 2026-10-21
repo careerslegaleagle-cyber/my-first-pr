@@ -9,3 +9,26 @@ Quality bar: every edit must look like it was done by a 20-year professional des
 - CTA is LOCKED on every poster, bottom: left "सच जानना है, तो आओ ZOOM FUNNEL में?" and right blue box "COMMENT करें / मैं आ रहा / रही हूँ!".
 - Hindi in Devanagari, English words in English; text exactly as given; blue (#1141c8) single accent for keywords.
 - Flag copyright/claim risks briefly; offer a caption after each poster.
+
+## Master design brief (locked by user, reference: butterfly-block poster)
+
+Act as a poster/video editor with 20-30 years of experience. Every poster must be sophisticated, polished, professional, minimal and attractive. Never boring, never crowded ("bhara-bhara"), never weird.
+
+Reference to match: legal-eagle-posters/butterfly-block (one hero image, generous negative space, one bold headline, one quiet text group, locked footer).
+
+Composition
+- ONE hero image. It owns the canvas. Never shrink it into a small box unless asked.
+- Visual weight must balance: if text is heavy on one side, the hero's weight goes to the other side. Check the diagonal flow (logo -> headline -> hero -> CTA).
+- Keep at least 44px outer margins; align text blocks to shared left/right edges; bottom blocks share one baseline.
+- Text sits only on quiet areas of the image (sky, wall, floor, dark gradient), never over the subject or its edges. Add a soft local scrim only if contrast needs it, with no visible edge.
+
+Typography
+- Max 3 sizes per poster: headline (largest), key phrase (medium), support/note (small). Sizes must be visibly different, never near-equal.
+- Headline 2-3 lines max, tight leading (1.02-1.08). Accent colour on 1-2 keywords only.
+- Hindi in Devanagari, English words in English. Never rewrite or shorten the user's wording unless asked.
+- Theme colours: black, white, blue (#1141c8; lighter #4d8dff on dark). Accent only in blue. Keep the user's original image colours unless a recolour is requested.
+
+Process (non-negotiable)
+- Render, then inspect the full poster AND zoomed crops of every edge, cutout, text overlap and the logo before sending. Fix first, send after.
+- Do not send a "first pass". Do not claim an image was generated; only edit/composite supplied images.
+- Commit each deliverable, push, then send. Offer a caption after each poster.
