@@ -32,3 +32,9 @@ Process (non-negotiable)
 - Render, then inspect the full poster AND zoomed crops of every edge, cutout, text overlap and the logo before sending. Fix first, send after.
 - Do not send a "first pass". Do not claim an image was generated; only edit/composite supplied images.
 - Commit each deliverable, push, then send. Offer a caption after each poster.
+
+## Scope rule (locked by user, highest priority)
+- Do ONLY what the user's message asks. No extra layout changes, fades, crops, rewrites of text, removed or added lines, or new designs "to improve it".
+- If the user supplies a layout/reference, keep it exactly; change only the named items.
+- If an instruction is unclear, ask one short question instead of guessing.
+- If the source image is too low-res to do the job well, say so up front, before editing.
