@@ -6,7 +6,7 @@ Quality bar: every edit must look like it was done by a 20-year professional des
 - Keep the original colours of user-supplied objects unless the user asks for a recolour.
 - Format 1:1 (2160x2160 render of a 1080 layout). Clean white background, minimal, spacious, professional.
 - Logo: original Legal Eagle tile (legal-eagle-posters source logo), never altered.
-- CTA is LOCKED on every poster, bottom: left "सच जानना है, तो आओ ZOOM FUNNEL में?" and right blue box "COMMENT करें / मैं आ रहा / रही हूँ!".
+- CTA is LOCKED on every poster, bottom: left "क्या आप आ रहे हैं" (line 1) + "ZOOM FUNNEL में?" (line 2, blue), and right blue box "COMMENT करें / मैं आ रहा / रही हूँ!". (Updated by user: "क्या आप आ रहे हैं" replaces the old "सच जानना है, तो आओ". Use this on every NEW CTA. Do not edit already-made posters unless asked.)
 - Hindi in Devanagari, English words in English; text exactly as given; blue (#1141c8) single accent for keywords.
 - Flag copyright/claim risks briefly; offer a caption after each poster.
 
